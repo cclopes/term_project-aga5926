@@ -27,4 +27,3 @@ Term Project for AGA5926 discipline @ IAG-USP. Description at [Project 7 in the 
 - `systems-20200112-20200114.csv`: CSV-based properties of systems identified by TATHU (available at [Google Drive](https://drive.google.com/file/d/13FnPcKbdjuLcxbP7aQbCj89e8uxvRtcl/view?usp=sharing))
 - `imgs_pickles.zip`: masked/unmasked/random images arrays without normalization (available at [Google Drive](https://drive.google.com/file/d/1uACYhhpTyGAWJBVr4JwfrqcNY940OX4P/view?usp=sharing))
 - **`imgs_input.zip`: masked/unmasked/random normalized images arrays used as input (available at [Google Drive](https://drive.google.com/file/d/14kxQPdyN5oQ-FgPWNJBYZG1XklvSqNpm/view?usp=sharing))**
-- 
